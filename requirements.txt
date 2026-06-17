@@ -4,10 +4,10 @@ pymerkle==6.1.0
 prometheus-client==0.20.0
 python-dotenv==1.0.1
 
-# ML Baselines
-scikit-learn==1.5.0
-numpy==2.0.0
-pandas==2.2.2
+# ML Baselines — Python 3.14 compatible (prebuilt wheels available)
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.6.1
 
 # Load Testing
 locust==2.29.1
