@@ -1,0 +1,18 @@
+# Core
+kafka-python==2.0.2
+pymerkle==5.0.2
+prometheus-client==0.20.0
+python-dotenv==1.0.1
+
+# ML Baselines
+scikit-learn==1.5.0
+numpy==1.26.4
+pandas==2.2.2
+
+# Load Testing (run separately via locust CLI if needed)
+locust==2.29.1
+
+# Utilities
+richtext==0.0.1
+rich==13.7.1
+tqdm==4.66.4
